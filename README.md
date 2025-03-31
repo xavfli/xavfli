@@ -19,6 +19,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xavfli&layout=compact&theme=dark)](https://github.com/xavfli)
 
 ## 📫 Men bilan bog‘lanish:
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/yourusername)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/VO1D_Backend)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/boburbek-nuriddinov-306236265/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/xavfli)
