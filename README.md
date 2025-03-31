@@ -1,5 +1,5 @@
 # 👋 Salom, men Boburbek Nuriddinov! 
-### 🖥 Backend dasturchi | Python Developer | Flask & Django
+### 🖥 Backend dasturchi | Python Developer | Flask & Django | REST framework
 
 ![GitHub followers](https://img.shields.io/github/followers/xavfli?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/xavfli?style=social)
