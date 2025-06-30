@@ -8,7 +8,7 @@
 - 💼 Mutaxassislik: Python · Django · DRF · REST API  
 - 🛠️ Texnologiyalar: Postgres · Docker · GitHub · Celery  
 - 🌱 Hozirda o‘rganayapman: FastAPI, Linux, Redis  
-- 🧑‍💻 Portfolio: [xavfli.github.io](https://xavfli.github.io) *(agar portfolio bo‘lsa)*  
+- 🧑‍💻 Portfolio: [xavfli.github.io](https://xavfli.github.io)
 
 ---
 
@@ -32,9 +32,9 @@
 ---
 
 ### 📫 Aloqa
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourusername)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/NuriddinovBoburbek)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nboburbek778@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/boburbek-nuriddinov-306236265/)
 
 ---
 
