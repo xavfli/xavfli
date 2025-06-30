@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Salom! Men Boburbek Nuriddinov (VO1D)
 
-<!--
-**xavfli/xavfli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 TATU talabasi  
+💼 Backend Developer (Django, DRF)  
+🌐 Frontend tajriba: HTML, CSS, JavaScript  
+📦 GitHub'da faol loyihalar: `shop_cart`, `LinguaCart`, `internetdokon`
 
-Here are some ideas to get you started:
+## 🚀 Texnologiyalar
+- Python, Django, DRF
+- PostgreSQL, SQLite
+- HTML/CSS, JavaScript
+- REST API, JWT
+- Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Statistika
+![xavfli's GitHub stats](https://github-readme-stats.vercel.app/api?username=xavfli&show_icons=true&theme=radical)
+
+## 📫 Aloqa:
+- Gmail: xavfli.dev@gmail.com
+- Telegram: [@xavfli](https://t.me/xavfli)
+- GitHub: [xavfli](https://github.com/xavfli)
